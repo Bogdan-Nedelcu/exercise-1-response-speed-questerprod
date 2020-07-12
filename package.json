@@ -1,0 +1,26 @@
+{
+  "name": "exercise_1_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanned/real_time_ex_1_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdanned/real_time_ex_1_2/issues"
+  },
+  "homepage": "https://github.com/bogdanned/real_time_ex_1_2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.1.0",
+    "response-time": "^2.3.2",
+    "supertest": "^4.0.2"
+  }
+}
